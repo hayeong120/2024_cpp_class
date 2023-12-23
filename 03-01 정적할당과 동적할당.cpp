@@ -42,5 +42,7 @@ int main(void)
 	Student* student2 = new Student(5678, "È«±æÀÚ");
 	(*student2).show();				// student->show();
 
+	delete student2;
+
 	return 0;
 }
