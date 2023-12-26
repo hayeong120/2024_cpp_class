@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03-01 클래스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="03-01 생성자 오버로딩.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
