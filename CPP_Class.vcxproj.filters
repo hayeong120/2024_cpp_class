@@ -18,5 +18,14 @@
     <ClCompile Include="03-01 클래스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03-01 생성자 오버로딩.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03-01 멤버변수 초기화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03-01 클래스 바깥 함수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
