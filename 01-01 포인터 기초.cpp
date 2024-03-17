@@ -3,7 +3,7 @@
 void main(void)
 {
 	int num = 3;
-	int* ptr = &num;
+	int* ptr =  &num;
 	*ptr = 4;
 
 	printf("num안의 값  : %d\n", num);		// num 안에 들어있는 값
