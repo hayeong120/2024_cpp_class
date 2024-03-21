@@ -18,5 +18,8 @@
     <ClCompile Include="grammar\연습예제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="02-01 기본예제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
