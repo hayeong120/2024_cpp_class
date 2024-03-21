@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2024_cpp_class\\2024-CPP-Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|solutionrelative:2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC5F0\uC2B5\uC608\uC81C.cpp",
+              "DocumentMoniker": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
+              "RelativeDocumentMoniker": "2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
+              "ToolTip": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
+              "RelativeToolTip": "2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T03:20:19.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
