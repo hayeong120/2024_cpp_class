@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02-01 기본예제.cpp" />
-    <ClCompile Include="02-02 기본예제.cpp" />
+    <ClCompile Include="call_by.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
