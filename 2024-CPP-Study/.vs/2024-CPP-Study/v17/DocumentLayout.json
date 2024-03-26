@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\2024_cpp_class\\2024-CPP-Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|solutionrelative:2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|solutionrelative:2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|solutionrelative:2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D088471-E90F-431B-8795-DE72D765EC8F}|2024-CPP-Study\\2024-CPP-Study.vcxproj|solutionrelative:2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "02-02 \uAE30\uBCF8\uC608\uC81C.cpp",
+              "DocumentMoniker": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp",
+              "RelativeDocumentMoniker": "2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp",
+              "ToolTip": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp",
+              "RelativeToolTip": "2024-CPP-Study\\02-02 \uAE30\uBCF8\uC608\uC81C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T05:54:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "02-01 \uAE30\uBCF8\uC608\uC81C.cpp",
               "DocumentMoniker": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp",
               "RelativeDocumentMoniker": "2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp",
@@ -30,20 +43,8 @@
               "RelativeToolTip": "2024-CPP-Study\\02-01 \uAE30\uBCF8\uC608\uC81C.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T02:42:23.087Z",
+              "WhenOpened": "2024-03-26T05:53:14.718Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uC5F0\uC2B5\uC608\uC81C.cpp",
-              "DocumentMoniker": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
-              "RelativeDocumentMoniker": "2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
-              "ToolTip": "C:\\2024_cpp_class\\2024-CPP-Study\\2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
-              "RelativeToolTip": "2024-CPP-Study\\grammar\\\uC5F0\uC2B5\uC608\uC81C.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T03:20:19.523Z"
             }
           ]
         }
