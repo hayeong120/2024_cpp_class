@@ -11,7 +11,7 @@ void call_by_pointer(int* val)
 
 int main() {
 	int num = 4;
-	// num의 값은 바뀌지 않는다. 
+	// num의 값은 바뀌지 않는다.                 
 	call_by_pointer(&num);
 	cout << num;
 

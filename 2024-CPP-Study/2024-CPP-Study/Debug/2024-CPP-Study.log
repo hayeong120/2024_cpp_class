@@ -1,0 +1,6 @@
+﻿  배열과 포인터.cpp
+C:\2024_cpp_class\2024-CPP-Study\2024-CPP-Study\배열과 포인터.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\2024_cpp_class\2024-CPP-Study\2024-CPP-Study\배열과 포인터.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\2024_cpp_class\2024-CPP-Study\2024-CPP-Study\배열과 포인터.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\2024_cpp_class\2024-CPP-Study\2024-CPP-Study\배열과 포인터.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+  2024-CPP-Study.vcxproj -> C:\2024_cpp_class\2024-CPP-Study\Debug\2024-CPP-Study.exe
