@@ -44,5 +44,5 @@ int main(void)
 
 	delete student2;
 
-	return 0;
+	return 0; 
 }
