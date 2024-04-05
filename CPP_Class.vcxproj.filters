@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01-03 포인터 변수의 크기.cpp">
+    <ClCompile Include="01-04 배열과 포인터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
