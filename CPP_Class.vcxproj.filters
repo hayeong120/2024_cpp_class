@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03-02 정적할당과 동적할당.cpp">
+    <ClCompile Include="03-02 객체 배열 동적할당.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
