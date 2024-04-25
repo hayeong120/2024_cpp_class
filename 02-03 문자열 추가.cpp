@@ -5,7 +5,7 @@ using namespace std;
 
 int main(void)
 {
-	char cMunja[9];
+	char cMunja[20];
 	strcpy(cMunja, "c_insert");		
 	strcat(cMunja, "++");			// C언어 방식의 문자열 추가
 	printf("%s\n", cMunja);
